@@ -1,0 +1,5 @@
+﻿  moc mainwindow.h
+  main.cpp
+  mainwindow.cpp
+  moc_mainwindow.cpp
+  ImageViewer2.vcxproj -> F:\Coding\CPP\Beginning C++ Game Programming\x64\Debug\ImageViewer2.exe
